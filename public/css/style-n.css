@@ -1,0 +1,49 @@
+  .estiloletra 
+   {
+    font-weight: 400;
+  }
+  
+  .estiloletrah1 {
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .estiloletrah2 {
+    font-size: 2rem;
+    line-height: 1;
+    color: rgb(0, 53, 99);
+  }
+  
+   .texto {
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    
+  }
+  .pregunta1,.pregunta2,.pregunta3,.pregunta4,.pregunta5 .p{
+    text-align:left;
+    padding:5px;
+    cursor:pointer;
+  }
+  .edicion ol li{
+    font-size: 0.88rem;
+  }
+  .edicionA ul li{
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 37.5em) {
+    h2 {
+      font-size: 2rem;
+    }
+  }
+  .clasemedia {
+    margin: 2rem auto;
+    max-width: 58rem;
+    padding: 0 1rem;
+  }
+.transition {
+    -webkit-transform: scale(1.8); 
+    -moz-transform: scale(1.8);
+    -o-transform: scale(1.8);
+    transform: scale(1.8);
+}

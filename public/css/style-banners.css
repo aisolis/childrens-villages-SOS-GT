@@ -1,0 +1,254 @@
+/*--------------------------------------------------------------
+# sire
+--------------------------------------------------------------*/
+.sire-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .sire-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .sire-banner .sire-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# quejas
+--------------------------------------------------------------*/
+.quejas-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .quejas-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .quejas-banner .quejas-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# procedimiento
+--------------------------------------------------------------*/
+.procedimiento-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .procedimiento-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .procedimiento-banner .procedimiento-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# preguntas
+--------------------------------------------------------------*/
+.preguntas-banner {
+    background: #00AFF0;
+    height: 30px;
+  }
+  
+ 
+  @media (max-width: 1024px) {
+    .preguntas-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .preguntas-banner .preguntas-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# pdf
+--------------------------------------------------------------*/
+.pdf-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .pdf-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .pdf-banner .pdf-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# historia
+--------------------------------------------------------------*/
+.historia-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .historia-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .historia-banner .historia-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# estructura
+--------------------------------------------------------------*/
+.estructura-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+   
+  @media (max-width: 1024px) {
+    .estructura-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .estructura-banner .estructura-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# supervisores
+--------------------------------------------------------------*/
+.supervisores-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .supervisores-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .supervisores-banner .supervisores-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# directorio
+--------------------------------------------------------------*/
+.directorio-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+
+  
+  @media (max-width: 1024px) {
+    .directorio-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .directorio-banner .directorio-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# contacto
+--------------------------------------------------------------*/
+.contacto-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .contacto-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .contacto-banner .contacto-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  
+
+/*--------------------------------------------------------------
+# Vision
+--------------------------------------------------------------*/
+.vision-banner {
+    background: linear-gradient(rgba(41, 74, 112, 0.9), rgba(41, 74, 112, 0.9));
+    height: 30px;
+  }
+  
+  @media (max-width: 1024px) {
+    .vision-banner {
+      background-attachment: scroll;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .vision-banner .vision-banner-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  

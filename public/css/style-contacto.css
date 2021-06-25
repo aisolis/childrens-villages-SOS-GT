@@ -1,0 +1,62 @@
+.direc
+{   
+    position: absolute;
+    height: 140px;
+    width: 420px;
+    margin-left: 100px; 
+    margin-top: 40px;
+    border: 1px solid black;
+    float: right;
+}
+.direc img
+{
+    float: left;
+}
+
+.direc-2
+{   
+    position: absolute;
+    height: 140px;
+    width: 420px;
+    margin-left: 400px; 
+    margin-top: 195px;
+   
+    float: right;
+}
+.direc-2 img
+{
+    float: left;
+}
+
+.direc-3
+{   
+    position: absolute;
+    height: 140px;
+    width: 420px;
+    margin-left: 400px; 
+    margin-top: 310px;
+   
+    float: right;
+}
+.direc-3 img
+{
+    float: left;
+}
+
+.direc p 
+{
+    width: 360px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.direc-2 p 
+{
+    width: 400px;
+    font-size: 15px;
+}
+.direc-3 p 
+{
+    width: 350px;
+    font-size: 15px;
+}
